@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-Assignment4-withouttoplevel", "C#-Assignment4-withouttoplevel\C#-Assignment4-withouttoplevel.csproj", "{9A7197E2-B288-4008-8E50-E05A24419A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#Assignment4withtoplevel", "C#Assignment4withtoplevel\C#Assignment4withtoplevel.csproj", "{25CBB34A-6398-40C8-976F-C0BA46D0BC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7197E2-B288-4008-8E50-E05A24419A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7197E2-B288-4008-8E50-E05A24419A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7197E2-B288-4008-8E50-E05A24419A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7197E2-B288-4008-8E50-E05A24419A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CBB34A-6398-40C8-976F-C0BA46D0BC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CBB34A-6398-40C8-976F-C0BA46D0BC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CBB34A-6398-40C8-976F-C0BA46D0BC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CBB34A-6398-40C8-976F-C0BA46D0BC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A4F6C2-9F5D-4C74-B9CD-F238DC5E8BAC}
+	EndGlobalSection
+EndGlobal
